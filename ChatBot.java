@@ -7,7 +7,7 @@ public class ChatBot {
 
 
         while (true) {
-            System.out.println("Welcome to Cab Booking ChatBot");
+            System.out.println("Welcome to ChatBot");
             System.out.println("\n1. Book Ride");
             System.out.println("2. Exit");
             System.out.print("Select 1 or 2: ");
