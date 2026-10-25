@@ -5,11 +5,12 @@ public class ChatBot {
 
         Scanner sc = new Scanner(System.in);
 
+
         while (true) {
+            System.out.println("Welcome to ChatBot");
             System.out.println("\n1. Book Ride");
             System.out.println("2. Exit");
             System.out.print("Select 1 or 2: ");
-
             int ch = sc.nextInt();
 
             switch (ch) {
