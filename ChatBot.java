@@ -122,7 +122,7 @@ public class ChatBot {
                     break;
 
                 case 2:
-                    System.out.println("Exited from chatbot.");
+                    System.out.println("Thank you for visiting");
                     sc.close();
                     return;
 
